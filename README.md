@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0896-monotonic-array](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
