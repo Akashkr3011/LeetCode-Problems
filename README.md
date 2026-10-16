@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
