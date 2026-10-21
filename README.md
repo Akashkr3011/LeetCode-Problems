@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
