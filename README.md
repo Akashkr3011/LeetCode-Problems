@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0414-third-maximum-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Akashkr3011/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
